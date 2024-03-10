@@ -96,6 +96,8 @@ public class MiPrimerVideoJuego {
         System.out.println("Penalización: " + nFallos + " x 5s = " + nFallos * 5);
         double tiempoFinal = tiempo + nFallos * 5;
         System.out.println("Tu tiempo final es de " + tiempoFinal + " segundos");
+        System.out.println("¡Vuelve a jugar con nosotros!");
+        System.out.println("¡Es muy divertido!");
     }
 /**
  * Método usado para imprimir por pantalla el Asciart de la tijera
